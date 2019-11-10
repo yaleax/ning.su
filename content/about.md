@@ -1,11 +1,9 @@
 ---
 title: About
-date: 2019-11-10T11:47:39.410Z
-lastmod: 2019-11-10T11:47:39.607Z
+date: 2019-11-10T11:49:51.261Z
+lastmod: 2019-11-10T11:49:51.439Z
 menu: main
 weight: 50
----
-About
 ---
 
 * 博客生成平台：[Hugo](https://gohugo.io/)
@@ -18,3 +16,4 @@ About
 * 域名证书：[Let's Encrypt](https://letsencrypt.org/)
 * CDN网络加速：[Netlify](https://www.netlify.com/)
 * 图床：[BackBlaze](https://www.backblaze.com/)
+

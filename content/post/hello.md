@@ -2,7 +2,7 @@
 title: 世界你好！
 date: 2019-11-08T08:43:38+08:00
 lastmod: 2021-04-09T12:39:43.213Z
-draft: flase
+draft: false
 ---
 
-hello
+안녕하세요 hello నమస్కారం Здравствуй hej السلام علیکم  Olá สวัสดี tere Hallo こんにちは ahoj হ্যালো cześć ياخشىمۇسىز Bonjour नमस्ते வணக்கம் สวัสดี မဂႆလာပၝ നമസ്തെ ನಮಸ್ತೆ ନମସ୍କାର ሰላም። नमस्ते Salut प्रणाम Salam Pranam 

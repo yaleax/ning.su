@@ -5,16 +5,16 @@
     <link>https://ning.su/</link>
     <description>Recent content on 苏宁</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>zh-cn</language>
     <copyright>苏宁</copyright>
     <lastBuildDate>Fri, 08 Nov 2019 14:40:17 +0000</lastBuildDate><atom:link href="https://ning.su/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
+      <title>关于本站</title>
       <link>https://ning.su/about/</link>
       <pubDate>Sun, 10 Nov 2019 11:49:51 +0000</pubDate>
       
       <guid>https://ning.su/about/</guid>
-      <description>博客生成平台：Hugo 博客主题：even 博客代码托管：GitHub 网站服务器供应商：Netlify 博客后台管理平台：Netlify CMS 域名服务</description>
+      <description>为本站提供技术支持的平台： 博客生成平台：Hugo 博客主题：Even 博客代码托管：GitHub 网站服务器供应商：Netlify 博客后台管理平台</description>
     </item>
     
     <item>

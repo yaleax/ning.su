@@ -1,13 +1,13 @@
 baseURL = "https://ning.su"
 languageCode = "en"
 defaultContentLanguage = "en"                             # en / zh-cn / ... (This field determines which i18n file to use)
-title = "Ning"
+title = "苏宁"
 preserveTaxonomyNames = true
 enableRobotsTXT = true
 enableEmoji = true
 theme = "even"
 enableGitInfo = false # use git commit log to generate lastmod record # 可根据 Git 中的提交生成最近更新记录。
-publishDir = "docs"
+publishDir = "public"
 # Syntax highlighting by Chroma. NOTE: Don't enable `highlightInClient` and `chroma` at the same time!
 pygmentsOptions = "linenos=table"
 pygmentsCodefences = true
@@ -18,10 +18,10 @@ hasCJKLanguage = true     # has chinese/japanese/korean ? # 自动检测是否�
 paginate = 5                                              # 首页每页显示的文章数
 disqusShortname = ""      # disqus_shortname
 googleAnalytics = ""      # UA-XXXXXXXX-X
-copyright = "Ning"            # default: author.name ↓        # 默认为下面配置的author.name ↓
+copyright = "苏宁"            # default: author.name ↓        # 默认为下面配置的author.name ↓
 
 [author]                  # essential                     # 必需
-  name = "Ning"
+  name = "苏宁"
 
 [sitemap]                 # essential                     # 必需
   changefreq = "weekly"
@@ -60,7 +60,7 @@ copyright = "Ning"            # default: author.name ↓        # 默认为下�
   gitRepo = ""
 
   # site info (optional)                                  # 站点信息（可选，不需要的可以直接注释掉）
-  logoTitle = "Ning"        # default: the title value    # 默认值: 上面设置的title值
+  logoTitle = "苏宁"        # default: the title value    # 默认值: 上面设置的title值
   keywords = ["Python学习", "个人博客"," Hugo主题even"]
   description = "疫情期间在家好好学习吧"
 

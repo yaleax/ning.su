@@ -13,8 +13,8 @@ weight: 50
 * 网站服务器供应商：[Netlify](https://www.netlify.com/)
 * 博客后台管理平台：[Netlify CMS](https://www.netlifycms.org/)
 * 域名服务商：[RuTLD](https://ru-tld.ru/en/)
-* DNS服务商：[Netlify](https://www.netlify.com/)
-* 域名证书：[Let's Encrypt](https://letsencrypt.org/)
-* CDN网络加速：[Netlify](https://www.netlify.com/)
+* DNS服务商：[loudflare](https://www.cloudflare.com）
+* 域名证书：[Let's Encrypt](https://letsencrypt.org)
+* CDN网络加速：[loudflare](hhttps://www.cloudflare.com）
 * 图床：[BackBlaze](https://www.backblaze.com/)
 
